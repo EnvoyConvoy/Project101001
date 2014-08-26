@@ -1,12 +1,12 @@
 #pragma strict
 
-public var enemy =  new Object {
+public var enemy =  {
   health = 10;
   // speed = RAIN may control speed, so leaving as a comment atm
   
 };
 
-public var enemyStrong = new Object {
+public var enemyStrong = {
   health = 15;
   // speed
 };
